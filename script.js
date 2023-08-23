@@ -24,6 +24,8 @@ let j = +prompt('третье число')
 
 let s = a + b + j
 console.log(s / 3);
+let r = 'open console'
+alert(r)
 
 // const currentYear = new Date().getFullYear();
 // const currentMonth = new Date().getMonth();
